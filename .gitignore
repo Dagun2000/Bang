@@ -77,7 +77,8 @@ crashlytics-build.properties
 # ===== Code-only whitelist =====
 # Assets 폴더 안의 모든 것을 기본적으로 무시하고,
 # 코드 관련 파일(.cs, 어셈블리 정의)만 추적 대상으로 남긴다.
-/[Aa]ssets/*
+# (단일 * 는 바로 아래 depth만 잡으므로 반드시 ** 로 재귀 처리)
+/[Aa]ssets/**
 !/[Aa]ssets/**/
 !/[Aa]ssets/**/*.cs
 !/[Aa]ssets/**/*.asmdef
