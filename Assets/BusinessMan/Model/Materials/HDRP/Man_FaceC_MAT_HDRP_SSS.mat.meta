@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 40485ac467651e3438615dd39f4d3e72
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271409
+  packageName: Modular Business Men
+  packageVersion: 1.0
+  assetPath: Assets/BusinessMan/Model/Materials/HDRP/Man_FaceC_MAT_HDRP_SSS.mat
+  uploadId: 853676

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 32339ce2dc6fdc34dad31156caf2f4ad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231774
+  packageName: Procedural Guns
+  packageVersion: 1.0
+  assetPath: Assets/Sursson/ProceduralGuns/Materials_URP/Mat_Body_SemiAuto_URP.mat
+  uploadId: 523382

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1bfd0863f654166478d0563d695c1bad
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231774
+  packageName: Procedural Guns
+  packageVersion: 1.0
+  assetPath: Assets/Sursson/ProceduralGuns/Prefabs/WeaponGenerator.prefab
+  uploadId: 523382

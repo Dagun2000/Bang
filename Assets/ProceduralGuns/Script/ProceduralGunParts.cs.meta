@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 26f8ba7ec5131be4cba704bd079badd2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231774
+  packageName: Procedural Guns
+  packageVersion: 1.0
+  assetPath: Assets/Sursson/ProceduralGuns/Script/ProceduralGunParts.cs
+  uploadId: 523382

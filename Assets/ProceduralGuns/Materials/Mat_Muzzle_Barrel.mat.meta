@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0efac20f464355c48a7293034dae635a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231774
+  packageName: Procedural Guns
+  packageVersion: 1.0
+  assetPath: Assets/Sursson/ProceduralGuns/Materials/Mat_Muzzle_Barrel.mat
+  uploadId: 523382

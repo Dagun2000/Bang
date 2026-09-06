@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: be1565873feb4d64eb28e16bcd3268f4
+timeCreated: 1567522844
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271409
+  packageName: Modular Business Men
+  packageVersion: 1.0
+  assetPath: Assets/NewPunch/BusinessMan/Model/Materials/Eyes_MAT_V1.mat
+  uploadId: 853676

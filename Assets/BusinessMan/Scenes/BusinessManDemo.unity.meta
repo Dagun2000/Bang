@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 229258f7e2433444b9d2f9bf181da705
+timeCreated: 1571234682
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271409
+  packageName: Modular Business Men
+  packageVersion: 1.0
+  assetPath: Assets/BusinessMan/Scenes/BusinessManDemo.unity
+  uploadId: 853676

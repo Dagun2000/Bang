@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5f2ba2068c0c36246a7485b4e2bab007
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231774
+  packageName: Procedural Guns
+  packageVersion: 1.0
+  assetPath: Assets/Sursson/ProceduralGuns/Prefabs/AmmoFeeder.prefab
+  uploadId: 523382

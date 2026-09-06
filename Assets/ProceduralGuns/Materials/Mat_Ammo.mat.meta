@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1261c2cfb1201374197c34cfa1a9235f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231774
+  packageName: Procedural Guns
+  packageVersion: 1.0
+  assetPath: Assets/Sursson/ProceduralGuns/Materials/Mat_Ammo.mat
+  uploadId: 523382

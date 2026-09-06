@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f13c60559badf0647a88d8fd607b7dd5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231774
+  packageName: Procedural Guns
+  packageVersion: 1.0
+  assetPath: Assets/Sursson/ProceduralGuns/Materials_URP/Mat_Handle_Broom_URP.mat
+  uploadId: 523382

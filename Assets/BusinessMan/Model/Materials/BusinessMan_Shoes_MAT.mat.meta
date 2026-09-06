@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 99b572c09c9b06d428cb4a4e0257c0a9
+timeCreated: 1566895598
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271409
+  packageName: Modular Business Men
+  packageVersion: 1.0
+  assetPath: Assets/NewPunch/BusinessMan/Model/Materials/BusinessMan_Shoes_MAT.mat
+  uploadId: 853676

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b8a798b15e3e01946ab68a37990cd8dc
+timeCreated: 1566895598
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271409
+  packageName: Modular Business Men
+  packageVersion: 1.0
+  assetPath: Assets/NewPunch/BusinessMan/Model/Materials/BusinessMan_Shirt_MAT_V7.mat
+  uploadId: 853676

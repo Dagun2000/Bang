@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 40a74efd44022c04793938f89be2bbcd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231774
+  packageName: Procedural Guns
+  packageVersion: 1.0
+  assetPath: Assets/Sursson/ProceduralGuns/Prefabs/AmmoMagazineDrum.prefab
+  uploadId: 523382

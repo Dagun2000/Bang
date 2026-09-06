@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c6d774e68e501164ca88c12777c506ce
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271409
+  packageName: Modular Business Men
+  packageVersion: 1.0
+  assetPath: Assets/BusinessMan/Scenes/BusinessManDemoSettings.lighting
+  uploadId: 853676

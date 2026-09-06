@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a2b62271a94f3614498edfbed340e6f9
+timeCreated: 1566910543
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271409
+  packageName: Modular Business Men
+  packageVersion: 1.0
+  assetPath: Assets/NewPunch/BusinessMan/Model/Materials/BusinessMan_Handkerchief_MAT_V6.mat
+  uploadId: 853676

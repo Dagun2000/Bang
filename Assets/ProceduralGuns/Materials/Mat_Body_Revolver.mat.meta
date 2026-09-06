@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4cdf8d78bfcbde84a83ff85f76bab931
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231774
+  packageName: Procedural Guns
+  packageVersion: 1.0
+  assetPath: Assets/Sursson/ProceduralGuns/Materials/Mat_Body_Revolver.mat
+  uploadId: 523382

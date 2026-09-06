@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7aeaa9c3aca84b24b942b1b772680c5f
+timeCreated: 1567521772
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271409
+  packageName: Modular Business Men
+  packageVersion: 1.0
+  assetPath: Assets/NewPunch/BusinessMan/Model/Materials/Man_HairF_MAT_V2.mat
+  uploadId: 853676

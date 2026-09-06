@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f19d017897b458c4c90a66053d286237
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231774
+  packageName: Procedural Guns
+  packageVersion: 1.0
+  assetPath: Assets/Sursson/ProceduralGuns/Materials/Mat_Handle_Pistol.mat
+  uploadId: 523382

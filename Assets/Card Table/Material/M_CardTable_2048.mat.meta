@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 080c138f7b5972a4391bd19341a77c19
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118894
+  packageName: Wood Card Table
+  packageVersion: 1.0
+  assetPath: Assets/Card Table/Material/M_CardTable_2048.mat
+  uploadId: 248693

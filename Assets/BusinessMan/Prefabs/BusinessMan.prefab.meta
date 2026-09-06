@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1fbd5f2e6f2e2e34da18276086b1ca04
+timeCreated: 1571229101
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271409
+  packageName: Modular Business Men
+  packageVersion: 1.0
+  assetPath: Assets/NewPunch/BusinessMan/Prefabs/BusinessMan.prefab
+  uploadId: 853676

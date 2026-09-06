@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 690ced3585464f3479f5beacc6bf3798
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231774
+  packageName: Procedural Guns
+  packageVersion: 1.0
+  assetPath: Assets/Sursson/ProceduralGuns/Prefabs/Ammo_Piercing_Casing.prefab
+  uploadId: 523382

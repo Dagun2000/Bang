@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 57d5279f587578442872bdc748292f4e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231774
+  packageName: Procedural Guns
+  packageVersion: 1.0
+  assetPath: Assets/Sursson/ProceduralGuns/Materials/Mat_Body_Automatic.mat
+  uploadId: 523382

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: acdad11d725936b44ba8501b47fe913c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231774
+  packageName: Procedural Guns
+  packageVersion: 1.0
+  assetPath: Assets/Sursson/ProceduralGuns/Materials_URP/Mat_Body_BoltAction_URP.mat
+  uploadId: 523382

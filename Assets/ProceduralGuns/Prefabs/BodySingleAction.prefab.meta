@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 91d32a59bd45dbd44943a7bfd30ff7c3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231774
+  packageName: Procedural Guns
+  packageVersion: 1.0
+  assetPath: Assets/Sursson/ProceduralGuns/Prefabs/BodySingleAction.prefab
+  uploadId: 523382

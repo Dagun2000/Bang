@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff4e5b754f8b705478ee22619428fc59
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231774
+  packageName: Procedural Guns
+  packageVersion: 1.0
+  assetPath: Assets/Sursson/ProceduralGuns/Prefabs/BodyRevolver.prefab
+  uploadId: 523382
